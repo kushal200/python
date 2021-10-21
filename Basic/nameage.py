@@ -1,0 +1,5 @@
+name = input("What is your name: ")
+age = int(input("How old are you: "))
+year = str((2014 - age)+100)
+print(name + " will be 100 years old in  " + year)
+print("Twinkle, twinkle, little star, \n\tHow I wonder what you are! \n\t\tUp above the world so high, \n\t\tLike a diamond in the sky. \nTwinkle, twinkle, little star, \n\tHow I wonder what you are!")

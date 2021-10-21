@@ -1,0 +1,93 @@
+			*****Product BillL*****
+		Customer details:
+		Customer name: 
+ 		Customer address: 
+		Customer PhoneNumber: 
+		Customer Email: 
+		Your Discount rate is: 0.02 
+		Your Product bill is: 4000 
+			*****Product BillL*****
+		Customer details:
+		Customer name: 
+ 		Customer address: 
+		Customer PhoneNumber: 
+		Customer Email: 
+		Your Discount rate is: 0 
+		Your Product bill is: 4000 
+			*****Product BillL*****
+		Customer details:
+		Customer name: 
+ 		Customer address: 
+		Customer PhoneNumber: 
+		Customer Email: 
+		Your Discount rate is: 0 
+		Your Product bill is: 4000 
+			*****Product BillL*****
+		Customer details:
+		Customer name: 
+ 		Customer address: 
+		Customer PhoneNumber: 
+		Customer Email: 
+		Your Discount rate is: 0 
+		Your Product bill is: 2000 
+	Your grandtotal Purchased is: 1960.0			*****Product BillL*****
+		Customer details:
+		Customer name: sonu
+ 		Customer address: sdxb
+		Customer PhoneNumber: sgbfd
+		Customer Email: sb
+		Your Discount rate is: 0 
+		Your Product bill is: 1000 
+	Your grandtotal Purchased is: 980.0			*****Product BillL*****
+		Customer details:
+		Customer name: 
+ 		Customer address: 
+		Customer PhoneNumber: 
+		Customer Email: 
+		Your Discount rate is: 0 
+		Your Product bill is: 500 
+	Your grandtotal Purchased is: 490.0			*****Product BillL*****
+		******Customer details*******
+		Customer name: 
+ 		Customer address: 
+		Customer PhoneNumber: 
+		Customer Email: 
+		Your Discount rate is: 0 
+		Your Product bill is: 1500 
+	Your grandtotal Purchased is: 1470.0
+			*****Product BillL*****
+		******Customer details*******
+		Customer name: Nishan Hamal
+ 		Customer address: ktm
+		Customer PhoneNumber: 678
+		Customer Email: esdgsbf 
+		Your Discount rate is: 0 
+		Your Product bill is: 2500 
+	Your grandtotal Purchased is: 2450.0
+			*****Product BillL*****
+		******Customer details*******
+		Customer name: Peter Karki
+ 		Customer address: Dharmasthali
+		Customer PhoneNumber: 123456789
+		Customer Email: peter@gmail.com
+		Your Discount rate is: 0 
+		Your Product bill is: 4000 
+	Your grandtotal Purchased is: 3920.0
+			*****Product BillL*****
+		******Customer details*******
+		Customer name: Bishal Shrestha
+ 		Customer address: kathmandu
+		Customer PhoneNumber: 123456789
+		Customer Email: bishal@gmail.com
+		Your Discount rate is: 0.02 
+		Your Product bill is: 15000 
+	Your grandtotal Purchased is: 12750.0
+			*****Product BillL*****
+		******Customer details*******
+		Customer name: Kushal Shrestha
+ 		Customer address: Aalapot, Kathmandu
+		Customer PhoneNumber: 9876543210
+		Customer Email: kushal@gmail.com
+		Your Discount rate is: 0 
+		Your Product bill is: 9000 
+	Your grandtotal Purchased is: 8820.0
